@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheshta
+- 👋 Hi, I’m Sheshta!
 - 👀 I’m interested in Wireless Communications (Radio networks), Robotics, AI, Machine Learning & Autonomous Systems
 - 🌱 I’m currently learning Robotics , AI and Autonomous Systems
 - 💞️ I’m looking to collaborate on projects for telecoms, autonomous systems
