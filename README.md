@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheshta!
-- 👀 I’m interested in Wireless Communications (Radio networks), Robotics, AI, Machine Learning & Autonomous Systems
+- 👀 I’m interested in Machine learning, Wireless Communications (Radio networks), Robotics & Autonomous Systems
 - 🌱 I’m currently learning Robotics , AI and Autonomous Systems
 - 💞️ I’m looking to collaborate on projects for telecoms, autonomous systems
 - 📫 You may reach me through my email 'kheesh24@gmail.com'
